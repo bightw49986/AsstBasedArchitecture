@@ -1,0 +1,16 @@
+{
+    "name": "JFramework.AssetBasedArchitecture.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e2af374f146d2904c8b7d1835d06ae1b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
